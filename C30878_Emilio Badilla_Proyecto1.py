@@ -4,7 +4,7 @@
 # In[6]:
 
 
-name=input("Escriba su nombre: ")
+name=input("Escriba su nombre : ")
 salBrut= float(input("Salario Bruto: "))
 comisiones=float(input("Comisiones: "))
 otros=float(input("Otros ingresos ocasionales: "))
